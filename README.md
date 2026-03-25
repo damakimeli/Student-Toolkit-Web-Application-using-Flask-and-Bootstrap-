@@ -1,0 +1,2 @@
+# Student-Toolkit-Web-Application-using-Flask-and-Bootstrap-
+This project is a beginner-friendly web application built using the Flask framework and styled with Bootstrap. The application includes multiple web pages such as a home page, about page, and contact page, as well as API endpoints that return JSON data for users, courses, and tasks. It demonstrates how Flask can be used to create RESTful APIs.
